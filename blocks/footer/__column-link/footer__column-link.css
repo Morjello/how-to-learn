@@ -10,5 +10,5 @@
 
 .footer__column-link:hover {
   opacity: 60%;
-  transition: .2s;
+  transition: .5s;
 }
